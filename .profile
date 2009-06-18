@@ -1,5 +1,5 @@
 # Environment Variables
-export PATH="/opt/local/bin:/opt/local/sbin:$PATH:/opt/local/lib/erlang/lib/rabbitmq_server-1.4.0/sbin/"
+export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 export MANPATH="/opt/local/share/man:$MANPATH"
 export EDITOR="mate -w"
 
