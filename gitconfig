@@ -1,0 +1,8 @@
+[user]
+	name = Josh Knowles
+	email = joshknowles@gmail.com
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
