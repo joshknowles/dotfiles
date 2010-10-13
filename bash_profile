@@ -5,16 +5,11 @@ export EDITOR="mate -w"
 
 # Aliases
 source ~/.aliases/bash.sh
+source ~/.aliases/development.sh
 source ~/.aliases/git.sh
-source ~/.aliases/irc.sh
-source ~/.aliases/projects.sh
-source ~/.aliases/ruby.sh
-source ~/.aliases/rails.sh
-source ~/.aliases/svn.sh
-source ~/.aliases/webby.sh
 
 # Completion
-source ~/.autocomplete/git-completion.bash
+source ~/.autocomplete/git-completion.sh
 complete -o default -o nospace -F _git gh
 
 # Prompt

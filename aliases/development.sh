@@ -1,3 +1,6 @@
+alias p="cd ~/Projects"
+
+# Rails
 alias ss="./script/server"
 alias sc="./script/console"
 

@@ -1,1 +1,0 @@
-alias sw="./script/webby"
