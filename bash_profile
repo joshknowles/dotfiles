@@ -19,3 +19,8 @@ complete -o default -o nospace -F _git gh
 
 # Prompt
 export PS1="[\[\e[32;1m\]\W\[\e[0m\]\$(__git_ps1 ' (\[\e[30;1m\]%s\[\e[0m\])')]\$ "
+
+
+if [ -f ~/.bashrc ]; then
+   source ~/.bashrc
+fi
