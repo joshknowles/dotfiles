@@ -1,5 +1,5 @@
 # Environment Variables
-export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
+export PATH="/usr/local/bin:${PATH}"
 export MANPATH="/opt/local/share/man:$MANPATH"
 export EDITOR="mate -w"
 
