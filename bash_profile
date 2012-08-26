@@ -1,6 +1,5 @@
 # Environment Variables
 export PATH="/usr/local/bin:${PATH}"
-export MANPATH="/opt/local/share/man:$MANPATH"
 export EDITOR="mate -w"
 
 # Aliases
