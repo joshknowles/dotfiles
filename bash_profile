@@ -1,6 +1,6 @@
 # Environment Variables
 export PATH="/usr/local/bin:${PATH}"
-export EDITOR="mate -w"
+export EDITOR="subl -w"
 
 # Aliases
 source ~/.aliases/bash.sh
