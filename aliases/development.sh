@@ -1,8 +1,7 @@
 alias p="cd ~/Projects"
 
-# Rails
-alias ss="./script/server"
-alias sc="./script/console"
+alias e="subl -n"
 
-alias cucs="./script/cucumber -p default"
-alias sucs="./script/cucumber -p selenium"
+# Rails
+alias f="foreman"
+alias h="heroku"
