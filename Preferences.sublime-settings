@@ -1,4 +1,7 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
-	"font_size": 13.0
+  "color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+  "font_size": 13.0,
+
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
 }
