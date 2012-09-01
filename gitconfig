@@ -8,3 +8,5 @@
 	status = auto
 [credential]
 	helper = osxkeychain
+[core]
+	excludesfile = /Users/joshknowles/.gitignore
