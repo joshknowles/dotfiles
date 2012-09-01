@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Git",
 		"Package Control",
 		"Sublime Finder",
 		"Terminal",
