@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": 1346507783,
 	"installed_packages":
 	[
+		"Alignment",
 		"Package Control",
 		"Theme - Soda"
 	]
