@@ -1,0 +1,10 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+  "theme": "Soda Light.sublime-theme",
+  "font_size": 13.0,
+
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+
+  "trim_trailing_white_space_on_save": true
+}
