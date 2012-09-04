@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1346507783,
+	"auto_upgrade_last_run": 1346728719,
 	"installed_packages":
 	[
 		"Alignment",
 		"ChangeQuotes",
 		"Git",
 		"Package Control",
+		"SideBarEnhancements",
 		"Sublime Finder",
 		"Terminal",
 		"Theme - Soda"
