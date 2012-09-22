@@ -3,9 +3,11 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
 		"ChangeQuotes",
 		"Git",
 		"Package Control",
+		"RubyFormat",
 		"SideBarEnhancements",
 		"Sublime Finder",
 		"Terminal",
