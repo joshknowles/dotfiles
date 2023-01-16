@@ -1,12 +1,7 @@
 [user]
 	name = Josh Knowles
 	email = joshknowles@gmail.com
-[color]
-	branch = auto
-	diff = auto
-	interactive = auto
-	status = auto
-[credential]
-	helper = osxkeychain
-[core]
-	excludesfile = /Users/joshknowles/.gitignore
+[credential "https://github.com"]
+	helper = !/opt/homebrew/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = !/opt/homebrew/bin/gh auth git-credential
