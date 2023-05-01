@@ -1,5 +1,5 @@
 # Environment Variables
-export EDITOR="code -nw"
+export EDITOR="zed -w"
 
 # nvm
 export NVM_DIR="$HOME/.nvm"
@@ -9,7 +9,6 @@ export NVM_DIR="$HOME/.nvm"
 alias ls="ls -1G"
 
 alias p="cd ~/Projects"
-alias e="code -n"
 
 alias gs="git status"
 alias ga="git add ."
