@@ -6,7 +6,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
 
 # Aliases
-alias ls="ls -1G"
+alias ls="ls -1AG"
 
 alias p="cd ~/Projects"
 
