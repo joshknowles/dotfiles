@@ -3,7 +3,7 @@ export EDITOR="zed -w"
 
 # nvm
 export NVM_DIR="$HOME/.nvm"
-[ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
+[ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh" # This loads nvm
 
 # Aliases
 alias ls="ls -1AG"
@@ -14,3 +14,4 @@ alias gs="git status"
 alias ga="git add ."
 alias gc="git commit"
 alias grm='git ls-files --deleted | xargs git rm'
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion" # This loads nvm bash_completion
