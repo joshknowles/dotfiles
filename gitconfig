@@ -9,3 +9,6 @@
 	defaultBranch = main
 [core]
 	excludesfile = /Users/jknowles/.gitignore
+[push]
+	default = simple
+	autoSetupRemote = true
